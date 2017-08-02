@@ -33,6 +33,5 @@
                 </ListView.ItemTemplate>
             </ListView>
         </Grid>
-        <!--<ActivityIndicator x:Name="ProgressLoader" IsRunning="True"/>-->
     </Grid>
 </ContentPage>
